@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://creative-cajeta-f062d0.netlify.app/
 title: Your title
 theme: hugo-theme-m10c
 paginate: 8
@@ -19,7 +19,7 @@ menu:
 params:
   author: John Doe
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  menu_item_separator: ' - '
+  menu_item_separator: " - "
   social:
     - icon: github
       name: Github
